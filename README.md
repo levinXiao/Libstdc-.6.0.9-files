@@ -13,7 +13,12 @@ Put tbd copy to the path:
 
 ### For Simulator
 * Put dylib copy to the path:
-
+  >
+  > Xcode 14.2
+  >
+  >
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib 
+  >  
   > Xcode 10:
   >
   > /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/lib/
@@ -29,4 +34,4 @@ Put tbd copy to the path:
 ## Download
 直接 *Clone or Download Zip* 进行文件下载
 
-也可以点击[这里](https://github.com/Cui-y/Libstdc-.6.0.9-files/archive/master.zip)进行文件下载
+也可以点击[这里](https://github.com/levinXiao/Libstdc-.6.0.9-files/archive/master.zip)进行文件下载
